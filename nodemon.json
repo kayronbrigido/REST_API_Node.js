@@ -1,0 +1,10 @@
+{
+    "env": {
+        "MYSQL_USER": "dev",
+        "MYSQL_PASSWORD": "1234",
+        "MYSQL_DB": "rest_api_db",
+        "MYSQL_HOST": "localhost",
+        "MYSQL_PORT": 3306,
+        "JWT_KEY": "password"
+    }
+}
